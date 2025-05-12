@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
         <div className="xl:grid xl:grid-cols-3 xl:gap-8">
           <div className="space-y-8 xl:col-span-1">
             <div className="flex items-center">
-              <span className="text-2xl font-bold gradient-text">AI2Step</span>
+              <img src="/ai2step-logo.png" alt="AI2Step Logo" className="h-12 w-auto" />
             </div>
             <p className="text-gray-500 text-base">
               Analyse biomécanique par IA pour des semelles personnalisées adaptées à votre marche unique.

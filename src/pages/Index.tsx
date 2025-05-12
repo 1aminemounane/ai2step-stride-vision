@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Button } from "@/components/ui/button";
@@ -23,6 +24,10 @@ const Index: React.FC = () => {
                 <p className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
                   AI2Step utilise la vision par ordinateur et l'intelligence artificielle pour analyser votre marche
                   et créer des semelles personnalisées qui vous conviennent parfaitement.
+                </p>
+                <p className="mt-2 text-ai2step-500 font-bold text-xl">
+                  STEP INTO THE FUTURE<br />
+                  BUILD YOUR OWN SMART INSOLE WITH AI2STEP
                 </p>
                 <div className="mt-10 max-w-md mx-auto sm:flex sm:justify-center md:mt-12">
                   <div className="rounded-md shadow">

@@ -13,7 +13,7 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="flex-shrink-0 flex items-center">
-              <span className="text-2xl font-bold gradient-text">AI2Step</span>
+              <img src="/ai2step-logo.png" alt="AI2Step Logo" className="h-10 w-auto" />
             </Link>
           </div>
           
