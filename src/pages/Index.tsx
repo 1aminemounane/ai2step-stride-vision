@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Button } from "@/components/ui/button";
@@ -22,7 +21,7 @@ const Index: React.FC = () => {
                   <span className="block gradient-text">des semelles parfaites</span>
                 </h1>
                 <p className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-                  AI2Step utilise la vision par ordinateur et l'intelligence artificielle pour analyser votre démarche
+                  AI2Step utilise la vision par ordinateur et l'intelligence artificielle pour analyser votre marche
                   et créer des semelles personnalisées qui vous conviennent parfaitement.
                 </p>
                 <div className="mt-10 max-w-md mx-auto sm:flex sm:justify-center md:mt-12">
@@ -59,7 +58,7 @@ const Index: React.FC = () => {
             <div className="lg:text-center">
               <h2 className="text-base text-ai2step-600 font-semibold tracking-wide uppercase">Fonctionnalités</h2>
               <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-                Une meilleure façon d'analyser votre démarche
+                Une meilleure façon d'analyser votre marche
               </p>
               <p className="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
                 Notre technologie avancée offre une analyse précise et des solutions adaptées à vos besoins spécifiques.
@@ -77,7 +76,7 @@ const Index: React.FC = () => {
                   <div className="mt-8 text-center">
                     <h3 className="text-lg font-medium text-gray-900">Analyse biomécanique</h3>
                     <p className="mt-2 text-base text-gray-500">
-                      Détection précise des problèmes dans votre démarche grâce à notre algorithme d'IA avancé.
+                      Détection précise des problèmes dans votre marche grâce à notre algorithme d'IA avancé.
                     </p>
                   </div>
                 </div>
@@ -179,7 +178,7 @@ const Index: React.FC = () => {
                     <div className="md:w-1/2 mb-6 md:mb-0 md:pr-12 md:text-right">
                       <h3 className="text-xl font-bold text-gray-900">3. Analyse par IA</h3>
                       <p className="mt-2 text-gray-600">
-                        Notre système analyse votre démarche et identifie les problèmes biomécaniques.
+                        Notre système analyse votre marche et identifie les problèmes biomécaniques.
                       </p>
                     </div>
                     <div className="md:w-12 flex justify-center">
@@ -286,7 +285,7 @@ const Index: React.FC = () => {
                   </div>
                 </div>
                 <p className="text-gray-600">
-                  "Procédure simple et résultats étonnants. Je ne pensais pas qu'une application pourrait analyser ma démarche avec autant de précision. Je recommande vivement !"
+                  "Procédure simple et résultats étonnants. Je ne pensais pas qu'une application pourrait analyser ma marche avec autant de précision. Je recommande vivement !"
                 </p>
                 <div className="mt-4 flex">
                   <span className="text-yellow-400">★★★★☆</span>
